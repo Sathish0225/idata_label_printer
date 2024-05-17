@@ -1,6 +1,6 @@
 # idata_label_printer
 
-![pub package](https://img.shields.io/pub/v/idata_label_printer.svg)](<https://pub.dev/packages/idata_label_printer>)
+[![pub package](https://img.shields.io/pub/v/idata_label_printer.svg)](https://pub.dev/packages/idata_label_printer)
 
 A new Flutter plugin for connecting to iData thermal/label printer via bluetooth (Android Only), this plugin is still under development.
 
@@ -37,7 +37,7 @@ A new Flutter plugin for connecting to iData thermal/label printer via bluetooth
 
 EXAMPLE:
 
-For detail demonstration please look at [example](https://github.com/Sathish0225/idata_label_printer/blob/main/example) folder
+For detail demonstration please look at [example](https://github.com/Sathish0225/idata_label_printer/tree/main/example) folder
 
 Note: make sure to upgrade your project to compileSdkVersion 31 or above
 

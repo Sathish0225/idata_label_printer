@@ -1,6 +1,6 @@
 name: idata_label_printer
 description: "A Flutter plugin for connecting to the portable iData Label Printer via bluetooth."
-version: 0.0.1
+version: 1.0.0
 homepage: https://mithran.dev
 repository: https://github.com/Sathish0225/idata_label_printer
 issue_tracker: https://github.com/Sathish0225/idata_label_printer/issues
